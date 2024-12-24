@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pexels.com/video/digital-presentation-of-data-and-information-3130284/)]
 <h1 align="center">Hi 👋, I'm Farvej Farru</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
-<img align="right" alt="Coding" Width="400" scr"https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">
+<img align="right" alt="Coding" Width="400" scr"[https://giphy.com/gifs/SWoSkN6DxTszqIKEqv](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3A2cm53bGJqc2Yzd3FieGI1OXExcHc1NzV6cDZmOHdxYXJqb2kydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farvejfaru&label=Profile%20views&color=0e75b6&style=flat" alt="farvejfaru" /> </p>
 
