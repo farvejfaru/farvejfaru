@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farvej Farru</h1>
+<h1 align="center">Hi 👋, I'm Farvej Shaik</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 
 ---
