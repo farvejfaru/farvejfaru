@@ -12,8 +12,8 @@
 💬 **Ask Me About**  
 🔥 JavaScript, Python, MERN Stack, Data Structures  
 
-📫 **How to Reach Me**  
-📩 Email: farvejfaru128@gmail.com  
+📫 **Get in Touch**  
+👉 [Click Here to Email Me](mailto:farvejfaru128@gmail.com)  
 
 ---
 
